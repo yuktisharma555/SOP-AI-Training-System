@@ -4,6 +4,7 @@ An AI-inspired SOP training system that converts raw SOP documents into structur
 
 ## Overview
 This project converts SOP (Standard Operating Procedure) into structured training content.
+Full working Link:- https://script.google.com/macros/s/AKfycbxZyhjohnd3CsY_ULtSuwjOCNX1tKBIWie3LeGVrtikjfWiurZh_1uu7FS8Gopk3khdlA/exec
 
 ## Features
 - Structured Summary
@@ -25,4 +26,4 @@ This project converts SOP (Standard Operating Procedure) into structured trainin
 This project demonstrates AI-like processing logic. In production, this can be integrated with real AI APIs (OpenAI / Hugging Face).
 
 ## Demo
-(Add your deployed web app link here)
+https://script.google.com/macros/s/AKfycbxZyhjohnd3CsY_ULtSuwjOCNX1tKBIWie3LeGVrtikjfWiurZh_1uu7FS8Gopk3khdlA/exec
